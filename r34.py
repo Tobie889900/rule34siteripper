@@ -4,7 +4,7 @@
 #	Updated by SudoAge
 
 #######
-#If you like it, consider donating, Bitcoin: 1N67GRbwJz93k5DBJn6ETR3z1tPcw9BCnU
+#If you like it, consider sending thanks to anon@nokocode.tk or SUdoAge@gmail.com
 #Don't like it or found bugs? Drop a email too either anon@nokocode.tk or SudoAge@gmail.com
 #######
 
